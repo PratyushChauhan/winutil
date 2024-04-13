@@ -35,7 +35,7 @@ iwr -useb https://christitus.com/win | iex
 if for some reason this site is not reachable from your country please try running it directly from github
 
 ```
-irm https://github.com/PratyushChauhan/winutil/blob/main/winutil.ps1 | iex
+irm https://raw.githubusercontent.com/PratyushChauhan/winutil/main/winutil.ps1 | iex
 ```
 
 #### Automation
